@@ -1,0 +1,10 @@
+1)easyrp is an amazing exe file which'll upload the updated information into discord here's a  link (https://github.com/Pizzabelly/EasyRP)
+
+2)config.ini this is the file that'll communicate with easyrp
+
+3)backup.txt is a file that'll be used by the cpp code for two main reasons (1.avoid crashes   2.edit the config.ini file safely) 
+
+if you somehow managed to mess the config file up (don't worry) just copy everything from backup and paste it in
+
+4)code itself. edits the backup.txt and updates the changed info in config.ini  
+
