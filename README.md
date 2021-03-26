@@ -1,5 +1,5 @@
 # DiscordRichPresenceUpdaterCpp
-(MUST HAVE A VISUAL STUDIO)
+#(MUST HAVE A VISUAL STUDIO)
 
 discord state/details updater.it just takes your inputted words and automatically updates it instead of you manually doing it.
 
